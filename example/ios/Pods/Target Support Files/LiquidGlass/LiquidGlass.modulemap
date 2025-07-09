@@ -1,0 +1,6 @@
+module LiquidGlass {
+  umbrella header "LiquidGlass-umbrella.h"
+
+  export *
+  module * { export * }
+}

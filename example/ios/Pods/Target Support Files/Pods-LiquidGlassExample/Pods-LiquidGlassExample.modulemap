@@ -1,0 +1,6 @@
+module Pods_LiquidGlassExample {
+  umbrella header "Pods-LiquidGlassExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
