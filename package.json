@@ -1,5 +1,5 @@
 {
-  "name": "react-native-liquid-glass",
+  "name": "@marvinvk/react-native-liquid-glass",
   "version": "0.1.1",
   "description": "A cross-platform React Native wrapper for Apple’s new iOS 26 Liquid Glass UI. Falls back to classic blur on older iOS versions and Android.",
   "main": "./lib/module/index.js",
